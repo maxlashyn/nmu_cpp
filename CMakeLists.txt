@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(nmu_cpp
-        Practical_2/practical_2.cpp)
+        OTP_лабы/Practical_4_22v/practical_4_2_22v.cpp
+        )
